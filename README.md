@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Tim.
+My name is Tim!
 
 Here are some facts about me
 
