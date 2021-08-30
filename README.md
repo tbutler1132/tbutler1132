@@ -19,8 +19,8 @@ Hi! My name is Tim.
 
 Here are some facts about me
 
-- 🔭 I’m currently working on a platform where musicians can all contribute their individual talents to create awesome projects!
+🔭 I’m currently working on a platform where musicians can all contribute their individual talents to create awesome projects!
 
-- 🌱 I’m currently learning GraphQL and TypeScript.
+🌱 I’m currently learning GraphQL and TypeScript.
 
-- ⚡ I met Shaq. 
+⚡ I met Shaq. 
