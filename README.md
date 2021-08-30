@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Hi! My name is Tim.
+
+Here are some facts about me
+
+- 🔭 I’m currently working on a platform where musicians can all contribute their individual talents to create awesome projects!
+
+- 🌱 I’m currently learning GraphQL and TypeScript.
+
+- ⚡Fun fact: I met Shaq. 
