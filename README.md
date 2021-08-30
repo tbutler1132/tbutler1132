@@ -23,4 +23,4 @@ Here are some facts about me
 
 - 🌱 I’m currently learning GraphQL and TypeScript.
 
-- ⚡Fun fact: I met Shaq. 
+- ⚡ I met Shaq. 
